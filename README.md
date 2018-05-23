@@ -8,7 +8,7 @@ Simly run the file
 Simply run the file
 
 ## ICP
-run the file icp_test
+run the file - icp_test.py
 
 ## Eigenface
-run the eigen.py 
+run the file - eigen.py 
