@@ -1,13 +1,14 @@
 # elec6910Rhomework
+## Kmean 
 
-#Kmean 
-#Simly run the file 
-#
-#meanshift
-#Simply run the file
-#
-#ICP
-#run the file icp_test
-#
-#Eigenface
-#run the eigen.py 
+Simly run the file 
+
+## Meanshift
+
+Simply run the file
+
+## ICP
+run the file icp_test
+
+## Eigenface
+run the eigen.py 
